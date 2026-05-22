@@ -1,3 +1,5 @@
+import :
+
 def main():
     print("Hello World")
     print(__name__)

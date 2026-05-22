@@ -46,3 +46,12 @@ yield (generateor 함수 할 때 사용)
 
 str() -> 컨테이너()
 indexing, slicing == c (arry 문법)
+
+
+## 2025-5-22
+함수, 함수 정의, 함수 호출, 매개변수, 반환값 설명
+kwargs, args 설명
+list 설명, list 예제
+list method 설명, list method 예제
+ractice 문제 1~10 연습
+module, package 설명, import 문법 설명
