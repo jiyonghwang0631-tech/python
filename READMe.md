@@ -55,3 +55,9 @@ list 설명, list 예제
 list method 설명, list method 예제
 ractice 문제 1~10 연습
 module, package 설명, import 문법 설명
+
+
+## 2025 - 5 - 26
+class , method , special method 설명(dunder method)
+instance method, class 변수, property 설명
+상속과 다중 상속
