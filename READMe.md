@@ -62,3 +62,6 @@ class , method , special method 설명(dunder method)
 instance method, class 변수, super, property 설명
 예외 try except, Exception 클래스 상속
 상속과 다중 상속 argparser , sys.argv 설명
+
+
+## 2025 - 5 - 27
