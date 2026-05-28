@@ -1,4 +1,4 @@
 {
-    "python-envs.defaultEnvManager": "ms-python.python:system",
-    "python.defaultInterpreterPath": "/usr/bin/python3"
+    "python-envs.defaultEnvManager": "ms-python.python:venv",
+    "python.defaultInterpreterPath": "${workspaceFolder}/Python_example/basic/ex_webview/.venv/bin/python"
 }

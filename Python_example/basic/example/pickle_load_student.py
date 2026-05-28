@@ -1,7 +1,7 @@
 import pickle
 from pathlib import Path
 
-from student_model import Student
+from Python_example.basic.example.student_model import Student
 
 
 def main():
