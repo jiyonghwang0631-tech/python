@@ -74,3 +74,7 @@ C extension, Cpp extension 설명
 rust binding 설명, pyo3 예제 설명
 
 ## 2025 - 5 - 28
+webview 설치 및, wsl 에서 gtk 환경 설정
+timer webview 예제 (backend, frontend 나누기, css, html, js 구조화, flask 구조화)
+click webview 예제(버튼 구현, 버튼 클릭 시 이벤트 처리)
+click webview 예제( SSE 구현)
