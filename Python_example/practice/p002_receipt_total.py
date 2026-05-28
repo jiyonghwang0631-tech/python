@@ -38,3 +38,42 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+LEVEL = "beginner"
+ORDER = 2
+TOPIC = "변수/산술연산"
+TITLE = "영수증 합계 계산"
+
+
+def calculate_receipt(price, quantity):
+    """문제 요구사항에 맞게 구현하세요."""
+    
+    # 공급가액
+    subtotal = price * quantity
+
+    # 부가세 (10%)
+    vat = subtotal * 0.1
+
+    # 총액
+    total = subtotal + vat
+
+    # 딕셔너리 반환
+    return {
+        "subtotal": int(subtotal),
+        "vat": int(vat),
+        "total": int(total)
+    }
+
+
+def main():
+    print(f"Practice {ORDER:03d}: {TITLE}")
+    print(f"난이도: {LEVEL} | 주제: {TOPIC}")
+
+    # 테스트
+    result = calculate_receipt(10000, 3)
+    print(result)
+
+
+if __name__ == "__main__":
+    main()

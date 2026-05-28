@@ -1,0 +1,8 @@
+/home/korea_hrd_1_2/python/Python_example/basic/native_extension/Rust_binding/target/release/build/target-lexicon-de9d5bc52dd71e67/build_script_build-de9d5bc52dd71e67.d: /home/korea_hrd_1_2/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/target-lexicon-0.13.5/build.rs /home/korea_hrd_1_2/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/target-lexicon-0.13.5/src/data_model.rs /home/korea_hrd_1_2/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/target-lexicon-0.13.5/src/triple.rs /home/korea_hrd_1_2/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/target-lexicon-0.13.5/src/targets.rs
+
+/home/korea_hrd_1_2/python/Python_example/basic/native_extension/Rust_binding/target/release/build/target-lexicon-de9d5bc52dd71e67/build_script_build-de9d5bc52dd71e67: /home/korea_hrd_1_2/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/target-lexicon-0.13.5/build.rs /home/korea_hrd_1_2/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/target-lexicon-0.13.5/src/data_model.rs /home/korea_hrd_1_2/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/target-lexicon-0.13.5/src/triple.rs /home/korea_hrd_1_2/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/target-lexicon-0.13.5/src/targets.rs
+
+/home/korea_hrd_1_2/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/target-lexicon-0.13.5/build.rs:
+/home/korea_hrd_1_2/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/target-lexicon-0.13.5/src/data_model.rs:
+/home/korea_hrd_1_2/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/target-lexicon-0.13.5/src/triple.rs:
+/home/korea_hrd_1_2/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/target-lexicon-0.13.5/src/targets.rs:

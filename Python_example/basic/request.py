@@ -1,8 +1,15 @@
 import requests
 
 
-url = "https://naver.com"
-response = requests.get(url)
+def fetch(url):
+    response = requests.get(url)
+    return response.text
 
-print("stats", response.status_code)
-print("text", response.text)
+
+def main():
+    html = fetch("http://python.org")
+    print(html)
+
+
+if __name__ == "__main__":
+    main()

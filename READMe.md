@@ -65,3 +65,10 @@ instance method, class 변수, super, property 설명
 
 
 ## 2025 - 5 - 27
+logger 패키지 설명, csv 로드 및 시각화 코드(matplotlib, seaborn) 설명
+native app(qt, tkinter, c#, gtk, .net), decorator, runtime_check decorator 작성
+generator 설명, lru_cache 설명, functools 설명
+iteration, SimpleIterator 설명(__next__, __iter__)
+threading, asyncio 설명
+C extension, Cpp extension 설명
+rust binding 설명, pyo3 예제 설명
